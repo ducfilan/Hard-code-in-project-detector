@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <item name="asp" value="&lt;%= EmbraceResourceManager.GetPathByCulture(&quot;{0}&quot;) %&gt;"/>
+  <item name="common" value="EmbraceResourceManager.GetPathByCulture(&quot;{0}&quot;)"/>
+  <item name="font" value="&lt;%= EmbraceResourceManager.GetFontAttribute(&quot;{0}&quot;) %&gt;"/>
+</root>

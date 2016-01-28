@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <regex>
+    <item value="[^\s]*\.href\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.src\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.imageurl\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.skin\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.hoverimageurl\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+
+    <item value="[^\s]*\.attributes.add\(&quot;href&quot;,(?&lt;value&gt;[^\)]+)"/>
+    <item value="[^\s]*\.attributes.add\(&quot;src&quot;,(?&lt;value&gt;[^\)]+)"/>
+    <item value="[^\s]*\.attributes.add\(&quot;imageurl&quot;,(?&lt;value&gt;[^\)]+)"/>
+    <item value="[^\s]*\.attributes.add\(&quot;hoverimageurl&quot;,(?&lt;value&gt;[^\)]+)"/>
+    
+    <item value="[^\s]*\.tostring\(([^)]+)\)|[^\s]*\.tostring"/>
+    <item value="[^\s]*\.tolongdatestring\(\)"/>
+    <item value="[^\s]*\.tolongtimestring\(\)"/>
+    <item value="[^\s]*\.toshortdatestring\(\)"/>
+    <item value="[^\s]*\.toshorttimestring\(\)"/>
+    <item value="[^\s]*\.format\([^)]+\)"/>
+    <item value="[^\s]*\.compare"/>
+    <item value="[^\s]*\.compareordinal"/>
+    <item value="[^\s]*\.sort"/>
+    <item value="[\s&quot;]date[^\s]*"/>
+    
+    <item value="font-family:(?&lt;value&gt;[^;&quot;]+)"/>
+    <item value="href='(?&lt;value&gt;[^']+)'|href=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="src='(?&lt;value&gt;[^']+)'|src=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="imageurl='(?&lt;value&gt;[^']+)'|imageurl=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="hoverimageurl='(?&lt;value&gt;[^']+)'|hoverimageurl=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="\s*url\s*\((?&lt;value&gt;[^\)]+)"/>
+    
+  </regex>
+</root>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <regex>
+    <item value="[^\s]*\.href\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.src\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.imageurl\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.hoverimageurl\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+
+    <item value="href='(?&lt;value&gt;[^']+)'|href=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="src='(?&lt;value&gt;[^']+)'|src=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="imageurl='(?&lt;value&gt;[^']+)'|imageurl=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="hoverimageurl='(?&lt;value&gt;[^']+)'|hoverimageurl=&quot;(?&lt;value&gt;[^&quot;]+)&quot;"/>
+    <item value="\s*url\s*\((?&lt;value&gt;[^\)]+)"/>
+    <item value="font-family:(?&lt;value&gt;[^;&quot;]+)"/>
+  </regex>
+</root>

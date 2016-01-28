@@ -1,0 +1,17 @@
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\bin\Debug\RF.exe.config
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.csproj.ResolveComReference.cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\bin\Debug\RF.exe
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\bin\Debug\RF.pdb
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\bin\Debug\HtmlAgilityPack.dll
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\bin\Debug\HtmlAgilityPack.pdb
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\bin\Debug\HtmlAgilityPack.xml
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.csprojResolveAssemblyReference.cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.Form1.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.Properties.Resources.resources
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.csproj.GenerateResource.Cache
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.exe
+C:\FPT\ThinhLD1\Embrace Tools\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.pdb
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\ResourceFinder\RF\bin\Debug\RF.exe.config
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.csproj.ResolveComReference.cache
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.exe
+D:\LEARNING\Copy\OtherSync\FSoft\Multilingual Tools\ResourceFinder\RF\obj\Debug\RF.pdb

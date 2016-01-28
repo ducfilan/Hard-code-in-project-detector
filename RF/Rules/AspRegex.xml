@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <!--Parsed by tree object-->
+  <tree>
+    <item value="href"/>
+    <item value="src"/>
+    <item value="skin"/>
+    <item value="imageurl"/>
+    <item value="hoverimageurl"/>
+  </tree>
+
+  <regex>
+    <item value="[^\s]*\.href\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.src\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.imageurl\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="[^\s]*\.hoverimageurl\s*=\s*(?&lt;value&gt;[^;|\n|\r|\r\n]+)"/>
+    <item value="font-family:(?&lt;value&gt;[^;&quot;]+)"/>
+    <item value="\s*url\s*\((?&lt;value&gt;[^\)]+)"/>
+  </regex>
+</root>
